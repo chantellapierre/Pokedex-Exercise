@@ -1,1 +1,1 @@
-# Springboard exercises Big O Notation.
+# Springboard Pokedex Exercises
